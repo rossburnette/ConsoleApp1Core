@@ -14,6 +14,7 @@ namespace ConsoleApp1Core
             Console.WriteLine(customer.Name.GetType());
 
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
